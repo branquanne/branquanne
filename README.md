@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! I'm a 23-year-old Information Technology student at The Royal Institute of Technology (KTH) with a passion for gaming, training, and Formula 1. This repository showcases my coding journey, including projects and coursework in C, Java, Assembly, Python, and JavaScript.
+Welcome to my GitHub repository! I'm a 23-year-old student at The Royal Institute of Technology (KTH) with a passion for gaming, training, and Formula 1. This repository showcases my coding journey, including projects and coursework in C, Java, Assembly, Python, and JavaScript.
 
 **Skills**
 Programming Languages: C, Java, Assembly, Python, JavaScript
