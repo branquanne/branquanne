@@ -1,33 +1,30 @@
-<h1 align="left">Hi, I'm Bran 👋</h1>
+# Hi, I'm Bran 👋
 
-###
+**Computer Science student at Umeå University, aiming for a career in backend and software engineering.**
 
-<p align="left">I am a second year CS student @ Umeå University.</p>
+I enjoy building systems that solve practical problems, and I am especially interested in algorithms, databases, networking, distributed systems, and applied machine learning.
 
-###
+## Featured public projects
 
-<h2 align="left">About me</h2>
+- **[Football League](https://github.com/branquanne/football-league)** — A Flask and SQL application for a football league, with a database-backed backend and a web interface.
+- **[Radio Info](https://github.com/branquanne/radioinfo)** — A Java application using Maven for retrieving and working with radio information.
+- **[Huffman](https://github.com/branquanne/Huffman)** — A C implementation of Huffman compression with tests and custom data structures.
+- **[Applied Algorithmic Problem Solving](https://github.com/branquanne/tap)** — Python solutions and implementations developed while studying algorithms and problem solving.
 
-###
+## Technologies
 
-<p align="left">📚 I'm currently learning Python and PostgreSQL.<br>🎯 My aim is to become a back-end engineer.</p>
+**Languages:** Java, Python, C, PHP  
+**Backend and data:** Flask, PostgreSQL, SQL, Maven  
+**Tools:** Git, Linux, unit testing, Jupyter Notebook
 
-###
+## Current focus
 
-<h2 align="left">I code with</h2>
+- Building stronger full-stack and backend projects
+- Improving testing and software design
+- Learning PostgreSQL and Python more deeply
+- Preparing for an entry-level software engineering or backend role
 
-###
+## Find me
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
-
-###
+- GitHub: [github.com/branquanne](https://github.com/branquanne)
+- Location: Umeå, Sweden
