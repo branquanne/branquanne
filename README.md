@@ -1,4 +1,4 @@
-# Hi, I'm Bran 👋
+# Hi, my name is Bran
 
 **Computer Science student at Umeå University, aiming for a career in backend and software engineering.**
 
