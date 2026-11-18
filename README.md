@@ -6,7 +6,7 @@ I enjoy building systems that solve practical problems, and I am especially inte
 
 ## Featured public projects
 
-- **[Football League](https://github.com/branquanne/snp)** — A small collection of system utilities.
+- **[snp](https://github.com/branquanne/snp)** — A small collection of system utilities.
 - **[Radio Info](https://github.com/branquanne/radioinfo)** — A Java application using Maven for retrieving and working with radio information.
 - **[Huffman](https://github.com/branquanne/Huffman)** — A C implementation of Huffman compression with tests and custom data structures.
 - **[Applied Algorithmic Problem Solving](https://github.com/branquanne/tap)** — Python solutions and implementations developed while studying algorithms and problem solving.
