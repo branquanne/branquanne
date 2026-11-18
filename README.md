@@ -16,3 +16,9 @@ I enjoy building systems that solve practical problems, and I am especially inte
 **Languages:** Java, Python, C, PHP  
 **Backend and data:** Flask, PostgreSQL, SQL, Maven  
 **Tools:** Git, Linux, unit testing, Jupyter Notebook
+
+## Contact
+Open to internships and entry-level software engineering, backend, or DevOps roles based in Umeå/Sweden or remotely.
+
+Email: branmq@icloud.com
+LinkedIn: [Here]{www.linkedin.com/in/branquanne}
