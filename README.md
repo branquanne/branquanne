@@ -24,7 +24,5 @@ I enjoy building systems that solve practical problems, and I am especially inte
 - Learning PostgreSQL and Python more deeply
 - Preparing for an entry-level software engineering or backend role
 
-## Find me
-
-- GitHub: [github.com/branquanne](https://github.com/branquanne)
+## 📍
 - Location: Umeå, Sweden
